@@ -119,7 +119,7 @@ const foodList = (params) =>{
   });
 };
 
-//Menüyü akfif hale getirdiğimiz yer
+//Menüyü aktif hale getirdiğimiz yer
 
 const activeMenu = () => {
 
